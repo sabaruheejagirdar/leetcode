@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ff4cb36-5ee6-484d-81bb-323cf5ceeb4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_1Arrays_Hashing/_1ContainsDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0_Arrays101/_0_arrayBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0_Arrays101/_1_MaxConsecutiveOnes_485.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0_Arrays101/_2_FindNumWithEvenDigits_1295.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_0_Arrays101/_3_SquaresOfSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_Arrays_Hashing/_2_ValidAnagram_242.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_1Arrays_Hashing/_1ContainsDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1_Arrays_Hashing/_1_ContainsDuplicate_217.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,19 +41,78 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application._0_arrayBasics.executor": "Run",
+    "Application._0arrayBasics.executor": "Run",
     "Application._1ContainsDuplicate.executor": "Run",
+    "Application._1_MaxConsecutiveOnes_485.executor": "Run",
+    "Application._2_FindNumWithEvenDigits_1295.executor": "Run",
+    "Application._2_ValidAnagram_242.executor": "Run",
+    "Application._3_SquaresOfSortedArray.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="_1ContainsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1Arrays_Hashing._1ContainsDuplicate" />
+  <component name="RunManager" selected="Application._3_SquaresOfSortedArray">
+    <configuration name="_0_arrayBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_0_Arrays101._0_arrayBasics" />
       <module name="Code150Neetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_1Arrays_Hashing.*" />
+          <option name="PATTERN" value="_0_Arrays101.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_1_MaxConsecutiveOnes_485" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_0_Arrays101._1_MaxConsecutiveOnes_485" />
+      <module name="Code150Neetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_0_Arrays101.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_2_FindNumWithEvenDigits_1295" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_0_Arrays101._2_FindNumWithEvenDigits_1295" />
+      <module name="Code150Neetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_0_Arrays101.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_2_ValidAnagram_242" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1_Arrays_Hashing._2_ValidAnagram_242" />
+      <module name="Code150Neetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_1_Arrays_Hashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_3_SquaresOfSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_0_Arrays101._3_SquaresOfSortedArray" />
+      <module name="Code150Neetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_0_Arrays101.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,7 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._1ContainsDuplicate" />
+        <item itemvalue="Application._3_SquaresOfSortedArray" />
+        <item itemvalue="Application._2_FindNumWithEvenDigits_1295" />
+        <item itemvalue="Application._1_MaxConsecutiveOnes_485" />
+        <item itemvalue="Application._0_arrayBasics" />
+        <item itemvalue="Application._2_ValidAnagram_242" />
       </list>
     </recent_temporary>
   </component>

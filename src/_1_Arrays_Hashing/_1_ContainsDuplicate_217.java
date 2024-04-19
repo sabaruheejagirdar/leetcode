@@ -1,4 +1,4 @@
-package _1Arrays_Hashing;
+package _1_Arrays_Hashing;
 
 /*STRATEGY:
 
@@ -18,9 +18,8 @@ Output: false
 
 
 import java.util.HashSet;
-import java.util.Set;
 
-public class _1ContainsDuplicate {
+public class _1_ContainsDuplicate_217 {
 
     public static void main(String[] args) {
         int[] nums = {1,2,3,4};
